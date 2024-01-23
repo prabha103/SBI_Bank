@@ -1,0 +1,9 @@
+AWS to Snowflake Connection:
+1.Create Database
+2.Create Schema
+3.Create table to S3 Bucket Same file Fields Names
+4.Create integration Object
+5.Describe Integration Object
+6.Create File format
+7.Create Stage
+8.Copy into Command.
