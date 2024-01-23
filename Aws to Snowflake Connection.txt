@@ -7,3 +7,4 @@ AWS to Snowflake Connection:
 6.Create File format
 7.Create Stage
 8.Copy into Command.
+9.Finally Executed.
